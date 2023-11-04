@@ -1,0 +1,8 @@
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\bin\Debug\deMinhHoa_MN.exe.config
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\bin\Debug\deMinhHoa_MN.exe
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\bin\Debug\deMinhHoa_MN.pdb
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\obj\Debug\deMinhHoa_MN.csproj.AssemblyReference.cache
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\obj\Debug\deMinhHoa_MN.csproj.SuggestedBindingRedirects.cache
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\obj\Debug\deMinhHoa_MN.csproj.CoreCompileInputs.cache
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\obj\Debug\deMinhHoa_MN.exe
+D:\C#\deMinhHoa_MN\deMinhHoa_MN\obj\Debug\deMinhHoa_MN.pdb
